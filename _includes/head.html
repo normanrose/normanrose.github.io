@@ -31,4 +31,8 @@
   </style>
 <![endif]-->
 
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 <meta http-equiv="cleartype" content="on">

@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16 !default;
+$doc-font-size              : 14 !default;
 
 /* paragraph indention */
 $paragraph-indent           : false !default; // true, false (default)
@@ -14,12 +14,12 @@ $indent-var                 : 1.3em !default;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif !default;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif                 : ".SFNSText-Regular", San Francisco, Roboto, -apple-system, "Segoe UI", "Helvetica Neue", "Lucida Grande", "Arial", sans-serif !default;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif !default;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+$helvetica                  : Helvetica, "Helvetica Neue", San Francisco, sans-serif !default;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif !default;
@@ -28,8 +28,8 @@ $bodoni                     : "Bodoni MT", serif !default;
 $calisto                    : "Calisto MT", serif !default;
 $garamond                   : Garamond, serif !default;
 
-$global-font-family         : $sans-serif !default;
-$header-font-family         : $sans-serif !default;
+$global-font-family         : $serif !default;
+$header-font-family         : $serif !default;
 $caption-font-family        : $serif !default;
 
 /* type scale */
@@ -38,20 +38,20 @@ $type-size-2                : 1.953em !default;  // ~31.248px
 $type-size-3                : 1.563em !default;  // ~25.008px
 $type-size-4                : 1.25em !default;   // ~20px
 $type-size-5                : 1em !default;      // ~16px
-$type-size-6                : 0.75em !default;   // ~12px
-$type-size-7                : 0.6875em !default; // ~11px
-$type-size-8                : 0.625em !default;  // ~10px
+$type-size-6                : 0.688em !default;   // ~12px
+$type-size-7                : 0.625em !default; // ~11px
+$type-size-8                : 0.563em !default;  // ~10px
 
 
 /*
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288 !default;
+$gray                       : #3b6382 !default;
 $dark-gray                  : mix(#000, $gray, 40%) !default;
 $darker-gray                : mix(#000, $gray, 60%) !default;
-$light-gray                 : mix(#fff, $gray, 50%) !default;
-$lighter-gray               : mix(#fff, $gray, 90%) !default;
+$light-gray                 : #B0E0E5 !default;
+$lighter-gray               : #f2f7ef !default;
 
 $body-color                 : #fff !default;
 $background-color           : #fff !default;
