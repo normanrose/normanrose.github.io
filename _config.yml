@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Norman Rose, the web version"
+title                    : "Norman Rose"
 title_separator          : "||"
 name                     : "Norman Rose"
 description              : "Your new album."
@@ -15,7 +15,7 @@ url                      : "https://normanrose.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "normanrose/normanrose.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/normanrose/"
+  github           : "normanrose/"
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/normanrose"
+  twitter          : "normanrose"
   vine             :
   weibo            :
   xing             :
@@ -248,4 +248,9 @@ defaults:
       comments: true
       share: true
       related: true
+      header:
+        image: /assets/images/subway-watch-1.jpg
+        caption: "Photo credit: Jose Duarte, on [**Unsplash**](https://unsplash.com/collections/483492/subway?photo=Fh1kwPHsCNg)"
+        cta_label: "More Info"
+        cta_url: "https://unsplash.com"
       

@@ -17,7 +17,7 @@ $serif                      : Georgia, Times, serif !default;
 $sans-serif                 : ".SFNSText-Regular", San Francisco, Roboto, -apple-system, "Segoe UI", "Helvetica Neue", "Lucida Grande", "Arial", sans-serif !default;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace !default;
 
-/* sans serif typefaces */
+/* sans-serif typefaces */
 $sans-serif-narrow          : $sans-serif !default;
 $helvetica                  : Helvetica, "Helvetica Neue", San Francisco, sans-serif !default;
 
@@ -29,7 +29,7 @@ $calisto                    : "Calisto MT", serif !default;
 $garamond                   : Garamond, serif !default;
 
 $global-font-family         : $serif !default;
-$header-font-family         : $serif !default;
+$header-font-family         : $sans-serif !default;
 $caption-font-family        : $serif !default;
 
 /* type scale */

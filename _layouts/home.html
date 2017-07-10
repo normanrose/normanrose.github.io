@@ -1,8 +1,14 @@
 ---
 layout: archive
+header:
+  image: /assets/images/subway-watch-1.jpg
+  cta_label: "More Info"
+  cta_url: "https://unsplash.com"
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recently--" }}</h3>
+
+{% include masthead.html %}
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
