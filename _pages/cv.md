@@ -13,9 +13,6 @@ HIGHLIGHTS OF QUALIFICATIONS
 
 * Ten years of experience in data analysis, surveys, and management in both government and non-profit sectors.
 * Creative writer/ communicator with data visualization, social media and journalism skills.
-* Superb writer and editor
-* Deadline driven
-* SEO knowledge
 
 EXPERIENCE
 
@@ -25,9 +22,7 @@ PROFESSIONAL DEVELOPMENT PROGRAM, ROCKEFELLER COLLEGE, Albany, NY
 
 Planner, coordinator of professional development workshops for New York State employees via agreement with Office of Employee Relations.
 
-* *Training Management*: Coordinate with vendors and sponsors to identify qualified instructors, review course content, learning objectives, technical needs, costs and space for workshops. Assess needs for workshop requests with advisory council and Agency stakeholders. Troubleshoot issues with desired content, vendors and day-of-event complications.
-* *Technical*: Maintenance of database and website tools for internal record keeping and external outreach.
-* *Research*: Environmental scanning research on trends in Engineering and Information Technology needs.
+* *Training Management*: Coordinate with vendors and sponsors to identify qualified instructors, review course content, learning objectives, technical needs, costs and space for workshops **focus**: engineering/ technical workshops.
 
 AMERICAN LIBRARY ASSOCIATION (ALA), CHICAGO, IL, 2007 – 2016
 
@@ -37,41 +32,31 @@ Data analysis for Digital Inclusion Survey policy brief commissioned by the Offi
 
 **Program Officer, Office for Research and Statistics (2007-2015)**
 
-* *Analytical*: Data analysis and project management for surveys, large-scale grant-funded projects and internal ALA initiatives. Included projects: 
-	* Conducted analysis, created graphics and maps for national Gates Foundation-funded Public Library Funding and Technology Access Study on adoption and use of technology, 2008-2012.
-	* Communications and web graphics for IMLS-funded Digital Inclusion Survey, 2014-15.
-	* Yearly survey of Chief Officers of State Library Agencies; results published in widely-read State of America's Libraries reports to describe trends in funding, stories of public library impact in communities, and public library policy needs, 2010-2015. [Example](http://goo.gl/H2xgFh)
-	* Yearly internal Membership Value Surveys for management.
-	* Yearly survey of Association member demographics. [Example](http://www.ala.org/research/sites/ala.org.research/files/content/July13report.pdf)
-* *Communication*: Manager of press releases, web and Twitter presences for ORS, building awareness of ORS accomplishments, projects, and award opportunities for the library community.
-* *Member Management*: for select member groups, aiding with program decisions and communications; managed webinar creation and management, budget decisions, member elections, award promotion, announcement, and disbursement.
+*Analytical*:  
+	* Conducted analysis, created graphics and maps for national Gates Foundation-funded Public Library Funding and Technology Access Study & later, IMLS-funded Digital Inclusion Survey, on adoption and use of technology.
+	* Yearly surveys: library trends via Chief Officers of State Library Agencies [Example](http://goo.gl/H2xgFh) | internal Membership Value Surveys | Association member demographics. [Example (.PDF)](http://www.ala.org/research/sites/ala.org.research/files/content/July13report.pdf)
+*Communication*: Managed of press releases, web, and Twitter presences for ORS, building awareness of ORS accomplishments, projects, and award opportunities for the library community.
+*Member Management*: Guided members through thorny program and budget decisions; managed webinar creation and management, award promotion, announcement, and disbursement.
 
 RUMBLE IN THE GARDEN (VOX MEDIA/ SB NATION NETWORK) 2011 – PRESENT
 
 **Managing Editor/ Writer**
 
-* Founder, managing editor and content creator for Rumble in the Garden, leading independent news source for St. John's Red Storm fans, on the SB Nation/ Vox Media network.
+* Founder, managing editor and content creator for Rumble in the Garden, leading independent news source for St. John's Red Storm fans, on the SB Nation/ Vox Media network. The 3-5 person team (plus credentialed photographer) covers live games, writes accessible content, and is [online](https://www.rumbleinthegarden.com/), on [Facebook](https://www.facebook.com/RumbleintheGarden/), on [podcast](http://apple.co/2cZtTLi), on [Twitter](https://twitter.com/rumblesbn) and on [Instagram](https://www.instagram.com/rumblesbn/) (next year)
 * Manage a team of five writers and two photographers, collaborating on editorial direction, creating content calendar, mentoring writers, editing content in AP style, crafting SEO-friendly headlines and promoting content.
 * Manage Facebook, Twitter, podcast and Instagram presences with fan-centric focus, humor.
 
-NEW YORK CITY DEPARTMENT OF SMALL BUSINESS SERVICES (SBS), NEW YORK, NY 2005 – 2007
+NEW YORK CITY DEPARTMENT OF SMALL BUSINESS SERVICES (SBS), NEW YORK, NY
 
 **Project Manager, Division of Economic and Financial Opportunity (DEFO)**
 
 Developed reporting and tracking implementation tools for Local Law 129, aimed at promoting contracting opportunities for minority- and women-owned businesses with New York City. 
-* Obtained data and drafted reporting tools and formats to be used citywide
-* Maintained and updated a database of 1100 active Minority- and Women-owned certified companies (M/WBEs) for agency, Mayoral, and external use.
-* Communicated policy changes and agency performance/ compliance metrics to the purchasing agents of 42 Mayoral agencies. Communicated to-date performance metrics and gaps to the agencies.
 
 EDUCATION
 
-NEW YORK UNIVERSITY, ROBERT F. WAGNER GRADUATE SCHOOL OF PUBLIC SERVICE, NEW YORK, NY
+NEW YORK UNIVERSITY, Master of Public Administration
 
-Master of Public Administration, May 2005
-
-WASHINGTON UNIVERSITY, ST. LOUIS, MO
-
-Bachelor of Arts in Economics, English (Double Major), Business Minor, May 1998
+WASHINGTON UNIVERSITY, ST. LOUIS, MO Economics, English
 
 SOFTWARE SKILLS/ TOOLS
 

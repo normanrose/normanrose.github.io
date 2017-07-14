@@ -253,4 +253,10 @@ defaults:
         caption: "Photo credit: Jose Duarte, on [**Unsplash**](https://unsplash.com/collections/483492/subway?photo=Fh1kwPHsCNg)"
         cta_label: "More Info"
         cta_url: "https://unsplash.com"
-      
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
