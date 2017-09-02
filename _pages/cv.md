@@ -9,12 +9,12 @@ layout: single
 R. Norman Rose 
 Albany, NY
 
-HIGHLIGHTS OF QUALIFICATIONS
+###HIGHLIGHTS OF QUALIFICATIONS
 
 * Ten years of experience in data analysis, surveys, and management in both government and non-profit sectors.
 * Creative writer/ communicator with data visualization, social media and journalism skills.
 
-EXPERIENCE
+###EXPERIENCE
 
 PROFESSIONAL DEVELOPMENT PROGRAM, ROCKEFELLER COLLEGE, Albany, NY
 
@@ -52,24 +52,24 @@ NEW YORK CITY DEPARTMENT OF SMALL BUSINESS SERVICES (SBS), NEW YORK, NY
 
 Developed reporting and tracking implementation tools for Local Law 129, aimed at promoting contracting opportunities for minority- and women-owned businesses with New York City. 
 
-EDUCATION
+###EDUCATION
 
 NEW YORK UNIVERSITY, Master of Public Administration
 
 WASHINGTON UNIVERSITY, ST. LOUIS, MO Economics, English
 
-SOFTWARE SKILLS/ TOOLS
+###SOFTWARE SKILLS/ TOOLS
 
 **For number crunching**: Excel, R, SPSS
 **For visual displays**: PowerPoint, Adobe Illustrator/ Photoshop Elements, Pixelmator
 **Database**: SQL (intermediate)
 **Also knowledge of**: Python, SAS.
 
-WEB EDITORIAL SKILLS
+###WEB EDITORIAL SKILLS
 
 HTML editing (Adobe Dreamweaver), content management (Drupal, WordPress, Collage, Blogger).
 
-SOCIAL MEDIA
+###SOCIAL MEDIA
 
 Twitter, Facebook, Instagram, Tumblr, Flickr, Tweetdeck, Buffer, Hootsuite, YouTube, Google Analytics (Analytics Academy certificate), Podcast editing (GarageBand).
 
