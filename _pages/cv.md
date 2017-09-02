@@ -9,12 +9,14 @@ layout: single
 R. Norman Rose 
 Albany, NY
 
-###HIGHLIGHTS OF QUALIFICATIONS
+HIGHLIGHTS OF QUALIFICATIONS
+-------------
 
 * Ten years of experience in data analysis, surveys, and management in both government and non-profit sectors.
 * Creative writer/ communicator with data visualization, social media and journalism skills.
 
-###EXPERIENCE
+EXPERIENCE
+-------------
 
 PROFESSIONAL DEVELOPMENT PROGRAM, ROCKEFELLER COLLEGE, Albany, NY
 
@@ -22,7 +24,9 @@ PROFESSIONAL DEVELOPMENT PROGRAM, ROCKEFELLER COLLEGE, Albany, NY
 
 Planner, coordinator of professional development workshops for New York State employees via agreement with Office of Employee Relations.
 
-* *Training Management*: Coordinate with vendors and sponsors to identify qualified instructors, review course content, learning objectives, technical needs, costs and space for workshops **focus**: engineering/ technical workshops.
+* *Training Management*: Coordinate with vendors and sponsors to identify qualified instructors, review course content, learning objectives, technical needs, costs and space for workshops 
+
+**focus**: engineering/ technical workshops.
 
 AMERICAN LIBRARY ASSOCIATION (ALA), CHICAGO, IL, 2007 – 2016
 
@@ -52,13 +56,15 @@ NEW YORK CITY DEPARTMENT OF SMALL BUSINESS SERVICES (SBS), NEW YORK, NY
 
 Developed reporting and tracking implementation tools for Local Law 129, aimed at promoting contracting opportunities for minority- and women-owned businesses with New York City. 
 
-###EDUCATION
+EDUCATION
+-------------
 
 NEW YORK UNIVERSITY, Master of Public Administration
 
 WASHINGTON UNIVERSITY, ST. LOUIS, MO Economics, English
 
-###SOFTWARE SKILLS/ TOOLS
+SOFTWARE SKILLS/ TOOLS
+-------------
 
 **For number crunching**: Excel, R, SPSS
 **For visual displays**: PowerPoint, Adobe Illustrator/ Photoshop Elements, Pixelmator
@@ -66,10 +72,12 @@ WASHINGTON UNIVERSITY, ST. LOUIS, MO Economics, English
 **Also knowledge of**: Python, SAS.
 
 ###WEB EDITORIAL SKILLS
+-------------
 
 HTML editing (Adobe Dreamweaver), content management (Drupal, WordPress, Collage, Blogger).
 
 ###SOCIAL MEDIA
+-------------
 
 Twitter, Facebook, Instagram, Tumblr, Flickr, Tweetdeck, Buffer, Hootsuite, YouTube, Google Analytics (Analytics Academy certificate), Podcast editing (GarageBand).
 
