@@ -34,7 +34,7 @@ Data analysis for Digital Inclusion Survey policy brief commissioned by the Offi
 
 *Analytical*:  
 	* Conducted analysis, created graphics and maps for national Gates Foundation-funded Public Library Funding and Technology Access Study & later, IMLS-funded Digital Inclusion Survey, on adoption and use of technology.
-	* Yearly surveys: library trends via Chief Officers of State Library Agencies [Example](http://goo.gl/H2xgFh) | internal Membership Value Surveys | Association member demographics. [Example (.PDF)](http://www.ala.org/research/sites/ala.org.research/files/content/July13report.pdf)
+	* Yearly surveys: library trends via Chief Officers of State Library Agencies [Example](https://goo.gl/3RiK3V) | internal Membership Value Surveys | Association member demographics. [Example (.PDF)](https://goo.gl/HhdbSq)
 *Communication*: Managed of press releases, web, and Twitter presences for ORS, building awareness of ORS accomplishments, projects, and award opportunities for the library community.
 *Member Management*: Guided members through thorny program and budget decisions; managed webinar creation and management, award promotion, announcement, and disbursement.
 
