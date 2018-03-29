@@ -18,7 +18,7 @@ HIGHLIGHTS OF QUALIFICATIONS
 EXPERIENCE
 -------------
 
-PROFESSIONAL DEVELOPMENT PROGRAM, ROCKEFELLER COLLEGE, Albany, NY
+#### PROFESSIONAL DEVELOPMENT PROGRAM, ROCKEFELLER COLLEGE, ALBANY, NY ####
 
 **Project Staff Associate, Public Service Workshops Program**
 
@@ -28,7 +28,7 @@ Planner, coordinator of professional development workshops for New York State em
 
 **focus**: engineering/ technical workshops.
 
-AMERICAN LIBRARY ASSOCIATION (ALA), CHICAGO, IL, 2007 – 2016
+#### AMERICAN LIBRARY ASSOCIATION (ALA), CHICAGO, IL, 2007 – 2016  ###
 
 **Freelance Research Analyst (2016)**
 
@@ -42,7 +42,7 @@ Data analysis for Digital Inclusion Survey policy brief commissioned by the Offi
 *Communication*: Managed of press releases, web, and Twitter presences for ORS, building awareness of ORS accomplishments, projects, and award opportunities for the library community.
 *Member Management*: Guided members through thorny program and budget decisions; managed webinar creation and management, award promotion, announcement, and disbursement.
 
-RUMBLE IN THE GARDEN (VOX MEDIA/ SB NATION NETWORK) 2011 – PRESENT
+#### RUMBLE IN THE GARDEN (VOX MEDIA/ SB NATION NETWORK) 2011 – PRESENT ###
 
 **Managing Editor/ Writer**
 
@@ -50,7 +50,7 @@ RUMBLE IN THE GARDEN (VOX MEDIA/ SB NATION NETWORK) 2011 – PRESENT
 * Manage a team of five writers and two photographers, collaborating on editorial direction, creating content calendar, mentoring writers, editing content in AP style, crafting SEO-friendly headlines and promoting content.
 * Manage Facebook, Twitter, podcast and Instagram presences with fan-centric focus, humor.
 
-NEW YORK CITY DEPARTMENT OF SMALL BUSINESS SERVICES (SBS), NEW YORK, NY
+#### NEW YORK CITY DEPARTMENT OF SMALL BUSINESS SERVICES (SBS), NEW YORK, NY ###
 
 **Project Manager, Division of Economic and Financial Opportunity (DEFO)**
 
@@ -67,8 +67,11 @@ SOFTWARE SKILLS/ TOOLS
 -------------
 
 **For number crunching**: Excel, R, SPSS
+
 **For visual displays**: PowerPoint, Adobe Illustrator/ Photoshop Elements, Pixelmator
+
 **Database**: SQL (intermediate)
+
 **Also knowledge of**: Python, SAS.
 
 ###WEB EDITORIAL SKILLS
